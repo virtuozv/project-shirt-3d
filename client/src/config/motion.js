@@ -44,7 +44,7 @@ export const headTextAnimation = {
     type: "spring",
     damping: 5,
     stiffness: 40,
-    restDelta: 0.001,
+    restDelta: 0.2,
     duration: 0.3,
   },
 };
